@@ -1,3 +1,5 @@
+package com.griddynamics;
+
 import org.apache.hadoop.hive.ql.exec.UDF;
 import org.springframework.security.web.util.matcher.IpAddressMatcher;
 
